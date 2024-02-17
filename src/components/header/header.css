@@ -1,0 +1,26 @@
+.container-header{
+    display: flex;
+    height: 90px;
+    justify-content: space-between;
+    box-shadow: 0px 0px 10px rgba(215, 210, 210, 0.712);
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.container-header h1,
+.mode{
+    padding: 80px;
+}
+.mode{
+    display: flex;
+}
+
+.icon{
+    margin-right: 10px;
+}
+
+
+.container-header a{
+    text-decoration: none;
+    color: black;
+}
